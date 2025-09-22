@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "xirpl1-2";
-$pass = "3060096013";
+$pass = "003060096013";
 $db   = "db_xirpl1-2_1";
 
 $koneksi = mysqli_connect($host,$user,$pass,$db);
